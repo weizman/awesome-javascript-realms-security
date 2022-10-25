@@ -12,7 +12,7 @@ It's time to research and learn more about javascript realms and offensive/defen
 
 ## Realms Security
 
-* [Realms role in supply chain attacks](https://twitter.com/WeizmanGal/status/1576942106156810240?s=20&t=_Wu9koNISWKip7dZYaYjbQ)
+* [Realms role in supply chain attacks](https://twitter.com/WeizmanGal/status/1576942106156810240)
 
 ### Tools
 
