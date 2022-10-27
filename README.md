@@ -2,9 +2,17 @@
 
 > Curated list of Javascript Realms Security resources
 
-Due to the rise of dependencies based development, the javascript ecosystem (and the browser javascript ecosystem in particular) is far more vulnerable to what we know as “supply chain attacks” - and the ability to create new realms in javascript is being leveraged to successfully carry out such attacks against web apps.
+Due to the rise of dependencies based development, the javascript ecosystem (and the browser javascript ecosystem in particular) is far more vulnerable to the rising major problem we know as “supply chain attacks”.
 
-It's time to research and learn more about javascript realms and offensive/defensive security around them.
+Therefore, many different supply chain security solutions were introduced to the industry as well, focusing on different ends of it, ranging from build time to runtime protection.
+
+However, runtime browser based protections usually lack a major component in their solutions, one that mostly leaves such solutions completely vulnerable, almost as if they were never there.
+
+Realms (aka iframes in the browser) is an ancient and legitimate concept that goes through a horrific spinoff in the context of bypassing browser based supply chain security attempts.
+
+And the worst part is that carrying out attacks is so easy with realms, but defending realms is so complicated.
+
+It's time to dive into the so important yet ignored layer in securing against unwanted code execution - it's time to talk about the javascript realms blank spot and its offensive/defensive security aspects.
 
 ## Realms
 
