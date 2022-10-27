@@ -23,8 +23,8 @@ It's time to dive into the so important yet ignored layer in securing against un
 ### Spec
 
 * [tc39 Realms](https://tc39.es/ecma262/#sec-code-realms)
-* [tc39 Agents (parent entity of realms)](https://tc39.es/ecma262/#sec-agents)
-* [tc39 Agent Clusters (parent entity of agents)](https://tc39.es/ecma262/#sec-agent-clusters)
+* [tc39 Agents](https://tc39.es/ecma262/#sec-agents) (parent entity of realms)
+* [tc39 Agent Clusters](https://tc39.es/ecma262/#sec-agent-clusters) (parent entity of agents)
 
 ### Content
 
