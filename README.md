@@ -50,9 +50,9 @@ It's time to dive into the so important yet ignored layer in securing against un
 
 ### Tools
 
-* [Snow JS ❄️](https://github.com/lavamoat/snow) - the most secure tool out there for hermatic realms ownership ⭐️
+* [Snow JS ❄️](https://github.com/lavamoat/snow) ⭐️ - the most secure tool out there for hermatic realms ownership 
   * [Introduction to Snow](https://github.com/lavamoat/snow/wiki/Introducing-Snow) - the rise of supply chain attacks and how it all lead to creating Snow
-  * [Integrating Snow into MetaMask 🦊](https://weizman.github.io/page-snow-into-metamask/) - understanding how supply chain attacks affect web apps such as [MetaMask](https://github.com/metamask), how MetaMask develops [LavaMoat](https://github.com/lavamoat) to defend against those, and why it also needs Snow ⭐️
-  * [Live demo](https://lavamoat.github.io/snow/demo/) - can you bypass snow? ⭐️
+  * [Integrating Snow into MetaMask](https://weizman.github.io/page-snow-into-metamask/) ⭐️ - understanding how supply chain attacks affect web apps such as [MetaMask 🦊](https://github.com/metamask), how MetaMask develops [LavaMoat](https://github.com/lavamoat) to defend against those, and why it also needs Snow 
+  * [Live demo](https://lavamoat.github.io/snow/demo/) ⭐️ - can you bypass snow? 
   * [Technical explanation](https://github.com/lavamoat/snow/wiki/Introducing-Snow#why-snow-solves-a-non-trivial-problem) ⭐️
   * [Source code](https://github.com/lavamoat/snow)
