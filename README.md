@@ -43,6 +43,7 @@ It's time to dive into the so important yet ignored layer in securing against un
 ### Content
 
 * [Realms role in supply chain attacks](https://twitter.com/WeizmanGal/status/1576942106156810240) ⭐️
+* [Introduction - What is realms security?](https://twitter.com/WeizmanGal/status/1593879906928074753?s=20&t=JCfpu5-ZIAFgLKC1Wrvd4g) ⭐️
 
 ### In the wild
 
