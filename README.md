@@ -35,7 +35,6 @@ It's time to dive into the so important yet ignored layer in securing against un
 ### Spec & Docs
 
 * [mdn iFrames](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-* [w3c iFrames](https://www.w3.org/TR/2011/WD-html5-20110525/the-iframe-element.html#the-iframe-element)
 * [html iFrames](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element)
 
 ## Realms(/iFrames) Security
