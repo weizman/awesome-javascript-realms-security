@@ -31,3 +31,7 @@ This talk focuses on securing against unwanted code execution by addressing the 
 We will explore the abuse potential, the importance of securing realms, and introduce SnowJS, an advanced open-source solution. 
 
 It's time we stop being terrorized by iframes!
+
+# Biography
+
+Expert in browser javascript security research, engineering and innovation with almost a decade of experience in the field
