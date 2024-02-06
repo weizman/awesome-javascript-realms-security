@@ -1,6 +1,6 @@
 # Awesome Javascript Realms Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]()
 
-> Curated list of Javascript Realms Security resources
+> Curated list of Javascript Realms Security resources (also known as [The Same Origin Concern](https://weizmangal.com/2023/09/28/the-same-origin-concern/))
 
 ## Abstract
 
@@ -29,6 +29,7 @@ It's time to dive into the so important yet ignored layer in securing against un
 ### Content
 
 * [What is a realm in javascript?](https://weizman.github.io/page-what-is-a-realm-in-js/) ⭐️
+* [The Same Origin Concern](https://weizmangal.com/2023/09/28/the-same-origin-concern/) ⭐️
 
 ## iFrames
 
